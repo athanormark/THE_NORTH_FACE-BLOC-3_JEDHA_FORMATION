@@ -1,0 +1,17 @@
+# Data
+data/
+*.csv
+*.xlsx
+*.json
+# System & IDE
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
+.vscode/
+# Python
+*.pyc
+venv/
+# Dev tools
+.claude/
+FICHE_ANTI_QUESTIONS.md
